@@ -4,5 +4,3 @@ def pole(bok_a):
     return bok_a*bok_a
 
 print(pole(bok_a))
-
-ddd
