@@ -14,3 +14,6 @@ def poleprost(bok_a,bok_b):
 print(poleprost(wymyslone_a,wymyslone_b))
 
 print(pole(5))
+
+# NA NASTEPNE ZAJECIA ZNAJOMOSC SKLADNI MARKDOWNA
+# JAK PISAC DOKUMENTACJE NA REPOZYTORIA
