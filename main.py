@@ -17,3 +17,14 @@ print(pole(5))
 
 # NA NASTEPNE ZAJECIA ZNAJOMOSC SKLADNI MARKDOWNA
 # JAK PISAC DOKUMENTACJE NA REPOZYTORIA
+
+def oblicz_pole_trojkata_podstawa_wysokosc(a, h):
+    pole = 0.5 * a * h
+    return pole
+
+# Przykładowe długości podstawy i wysokości trójkąta
+a = 5
+h = 8
+
+pole = oblicz_pole_trojkata_podstawa_wysokosc(a, h)
+print("Pole trójkąta o podstawie długości", a, "i wysokości", h, "wynosi:", pole)
